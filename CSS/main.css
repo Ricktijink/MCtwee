@@ -859,6 +859,13 @@ html, body{
 5.3 Fysiotherapie
 ------------------------------------------*/
 
+.intro_block_subtitle{
+	font-size: 32px;
+	font-family: 'gravitylight';
+	font-style: italic;
+	font-weight: bold;
+}
+
 /*------------------------------
 5.3A Left container
 --------------------------------*/

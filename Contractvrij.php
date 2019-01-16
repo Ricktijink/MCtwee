@@ -3,9 +3,9 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>MC2 - Nieuws</title>
+	<title>MC2 - Contractvrij</title>
 	<meta name="author" content="Rick Tijink" />
-	<meta name="description" content="Blijf op de hoogte van het laatste nieuws van MC2!" />
+	<meta name="description" content="Misschien zit je nu ziek thuis? Bij MC2 zijn we gespecialiseerd in Arbeid en Gezondheid, zowel arbeidsgerelateerde- als arbeidrelevante klachten." />
 	<meta name="keywords"  content="Website, Logo, Code, Animation, Design, Animation" />
 	<meta name="Resource-type" content="Document" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,7 +17,6 @@
 	<script type="text/javascript" src="JS/jquery-1.7.1.min.js"></script>
 	<script type="text/javascript" src="JS/custom.js"></script>
 </head>
-
 
 <body>
 	<div id="landscape-block"><div id="smalllogo"><img src="IMG/logo.png" alt="over" width="160" height="47"></div><h1>Voor de beste mobiele ervaring is deze website alleen in portret modus te bekijken</h1></div>
@@ -43,10 +42,10 @@
 					<li><a href="OverMC2.php">Over MC<sup>2</sup></a></li>
 					<li class="indent"><a href="Psychologie.php">Psychologie</a></li>
 					<li class="indent"><a href="Fysiotherapie.php">Fysiotherapie</a></li>
-					<li class="indent"><a href="Reintegratie.php">Reïntegratie</a></li>
+					<li class="indent"><a href="#"><strong>Reïntegratie</strong></a></li>
 					<li><a href="Kwaliteit.php">Kwaliteit</a></li>
 					<li><a href="HetTeam.php">Het Team</a></li>
-					<li><a href="#"><strong>Nieuws</strong></a></li>
+					<li><a href="Nieuws.php">Nieuws</a></li>
 					<li><a href="Media.php">Media</a></li>
 					<li><a href="Contact.php">Contact</a></li>
 				</ul>
@@ -68,10 +67,8 @@
 		</div>
 		<!-- Intro page -->
 		<div id="intro_block">
-			<h1 class="main_title editable" id="untitled-region-1">Nieuws</h1><br/>
-			<span class="main_subtitle editable" id="untitled-region-2">De laatste updates vindt u hier</span>
-			<div class="line"></div>
-			<p class="main_text editable" id="newsintro">Welkom bij het laatste nieuws van MC<sup>2</sup>. Hier vind je nieuws over alles wat met MC<sup>2</sup> te maken kan hebben zoals vakanties, medewerkers, werkzaamheden etc. Blijf op de hoogte door af en toe hier te kijken maar ga ook eens naar onze facebook-pagina. Zo blijf je altijd op de hoogte van de laatste ins en outs van MC<sup>2</sup> <br><br>MC<sup>2</sup> gaat per 1 januari 2019 contractvrij <br>maar daarover informeren wij u zo spoedig mogelijk via onze site. <br>Mocht u al info wensen, neemt u dan contact op met onze office.</p>
+			<h1 class="main_title editable" id="untitled-region-1">Contractvrij</h1><br/>
+			<span class="main_subtitle editable" id="untitled-region-2">MC2 gaat contractvrij!</span>
 		</div>
 	</div>
 	<!-- Right container - Blue -->
@@ -83,58 +80,42 @@
 				<!-- Block 1 - MDP -->
 				<div class="block">
 					<div class="block_title">
-						<h1 class="title_red editable" id="untitled-region-3">MC<sup>2</sup> gaat CONTRACTVRIJ</h1>
-						<span class="subtitle editable" id="untitled-region-4">4 januari 2019</span>
+						<h1 class="title_red editable">2018</h1>
+						<span class="subtitle editable">Voor clienten die voor 1 januari 2019 gestart zijn</span>
 					</div>
 					<div class="block_contentwrapper">
-						<div class="block_text editable" id="news1">
+						<div class="block_text editable" id="re_mdp">
 							<p class="standard_text">
-								Tekst komt nog?
+								Omdat wij als MC<sup>2</sup> het belangrijk vinden cliëntgericht te werken, de cliënt wordt gezien als regisseur van een eigen traject (daarin de ondersteuning geniet van onze behandelaars). De cliënt beslist mee over het eigen te doorlopen behandeltraject (we noemen dit “shared decision making”: behandelaar en cliënt geven samen invulling aan het proces van de behandeling aan de start van het traject middels het bespreken van het behandelplan). Om dit zo optimaal te kunnen laten verlopen, vragen wij de cliënt om na de behandeling voor ons de CQi-vragenlijst in te vullen...
 							</p>
 						</div>
 						<!-- button -->
 						<div class="block_button">
 							<hr/>
-							<a class="button_red" href="Contractvrij.php">Lees Meer</a>
+							<a class="button_red" href="Temp.php">Lees Meer</a>
 						</div>
 						<div class="break"></div>
 					</div>
 				</div>
-				<!-- Block 2 - Werknemer -->
-				<!-- <div class="block">
-					<div class="block_title margin-column-top">
-						<h1 class="title_red editable" id="untitled-region-5">Nieuwe vacature!</h1>
-						<span class="subtitle editable" id="untitled-region-6"></span>
-					</div>
-					<div class="block_contentwrapper">
-						<div class="block_text editable" id="news2"><p class="standard_text">Ter uitbreiding van ons team zoeken wij een Office Manager voor 20 uur per week (iedere ochtend van 8:30 t/m 12:30). Voor meer informatie zie de <a href="vacature-officemanager.pdf" target="_blank">vacature</a>. Kijk gerust even op onze site of Facebook om een indruk te krijgen van ons en onze praktijk!</p></div>
-						<div class="break"></div>
-					</div>
-				</div> -->
 			</div>
 			<!-- Column 2 -->
 			<div class="column margin-column-right">
-				<!-- Block 3 - Werkgever -->
+				<!-- Block 4 -->
 				<div class="block">
 					<div class="block_title">
-					<h1 class="title_red editable" id="untitled-region-3">Wachttijden MC<sup>2</sup></h1>
-						<span class="subtitle editable" id="untitled-region-4">4 januari 2019</span>
+						<h1 class="title_red editable">2019</h1>
+						<span class="subtitle editable">Voor clienten die na 1 januari 2019 een traject opstarten</span>
 					</div>
 					<div class="block_contentwrapper">
-						<div class="block_text editable" id="news1">
+						<div class="block_text editable" id="re_werknemer">
 							<p class="standard_text">
-								<strong>ISU (InloopSpreekUur):</strong>
-								<br>Momenteel geen wachttijd! Iedere week op dinsdag van 17.00u-18.00u Iedere week op 
-								vrijdag van 09.00u-10.00u <br><br><strong>MDP (MultiDisciplinair/Arbeid &amp; Gezondheid):
-								</strong> <br>Momenteel geen wachttijd! Intake AG: binnen 5 werkdagen na autorisatie/
-								aanvraag intake AG Rapportage: binnen 5 werkdagen na intake Start behandeling: binnen 5 
-								werkdagen na autorisatie MDP <br><br><strong>Eerstelijns: <br>Psychologie (contractvrij):
-								</strong> <br>Intake en/of behandeling: vanaf 1 februari 2019 <br><strong>Oefentherapie 
-								(contractvrij):</strong> Intake en/of start behandeling: vanaf 1 februari 2019 
-								<br><br><strong>Fysiotherapie (gecontracteerd):</strong> <br>Check de site van onze 
-								samenwerkingspartner: www.fysiobinnenstad.nl <br><strong>Psychologie (gecontracteerd):
-								</strong> <br>Tijdens ons ISU kunnen wij u meer vertellen over onze samenwerkingspartners
+								MC<sup>2</sup> gaat voor verbinden en werkt samen met diverse huisartsen en hun POH-GGZ. O.a. de praktijken van huisartsen Spoorlaan (praktijk van dkt. Lovenich) en Huisartsen Perron 1 (praktijkhouder dkt. Groot) en Huisartsen Hoefstraat (dkt. Groot & dkt. Wedemeijer) staan welbekend in de samenwerking met MC<sup>2</sup>. Ook hun POH-GGZ zijn frequent aanwezig in cliënt-overlegmomenten. De informatie die gedeeld wordt tijdens deze overleggen, wordt voorafgaand besproken met de cliënt die daardoor ook medezeggenschap heeft in wat er gedeeld wordt...
 							</p>
+						</div>
+						<!-- button -->
+						<div class="block_button">
+							<hr/>
+							<a class="button_red" href="Temp1.php">Lees Meer</a>
 						</div>
 						<div class="break"></div>
 					</div>
@@ -142,6 +123,7 @@
 			</div>
 			<!-- Column 3 -->
 			<div class="column">
+				
 			</div>
 			<div class="break"></div>
 		</div>

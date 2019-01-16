@@ -120,23 +120,8 @@
 			</div>
 			<!-- Column 2 -->
 			<div class="column margin-column-right">
-				<!-- Block 3 - Werkgever -->
-				<div class="block">
-					<div class="block_title">
-						<h1 class="title_red editable">Kwaliteitskeurmerk KiBG</h1>
-						<!-- <span class="subtitle editable">Subtitle hier</span> -->
-					</div>
-					<div class="block_contentwrapper">
-						<div class="block_text editable" id="re_werkgever">
-							<p class="standard_text">
-								De kwaliteit in de Generalistische Basis GGZ wordt nauwlettend nagestreefd. Ook MC<sup>2</sup> heeft daar een aandeel in: wij werken volgens het Kwaliteitskeurmerk van de Stichting Kwaliteit in Basis GGZ (KiBG). Dit houdt in dat we aan normen voldoen die staan voor cliëntgerichte behandeling, systematisch en evidence based handelen, herstelgerichte zorg voor cliënten met chronische klachten, continue verbeteren en innoveren. Enkele zaken waarover we de cliënten mogen informeren via de website vindt je <a href="KiBG-Informatie_voor_clienten.pdf" target="_blank">hier</a>.
-							</p>
-						</div>
-						<div class="break"></div>
-					</div>
-				</div>
 				<!-- Block 4 -->
-				<div class="block margin-column-top">
+				<div class="block">
 					<div class="block_title">
 						<h1 class="title_red editable">Samenwerking</h1>
 						<!-- <span class="subtitle editable">Subtitel hier</span> -->
