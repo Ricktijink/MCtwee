@@ -117,13 +117,19 @@
 						<div class="break"></div>
 					</div>
 				</div>
-				<br/>
+			</div>
+			<!-- Column 3 -->
+			<div class="column">
+				<!-- Block 3 -->
 				<div class="block">
 					<div class="block_title">
 						<h1 class="title_red editable" id="untitled-region-7">Visie</h1>
 						<span class="subtitle editable" id="untitled-region-8">Ons toekomstvisie van het bedrijf</span>
 					</div>
 					<div class="block_contentwrapper">
+						<div class="block_img">
+							<img src="IMG/praktijk.jpg" alt="image2">
+						</div>
 						<div class="block_text editable" id="visie"><p class="standard_text">Door een efficiënte en eigenzinnige mono- en multidisciplinaire aanpak bereikt MC<sup>2</sup> samen met de cliënt en andere betrokkenen een verbetering in kwaliteit van leven, met óf zonder resterende klachten op psychologisch, somatisch of psychosomatisch gebied. Direct hieraan gerelateerd is de reductie van verzuimkosten en reductie van zorgconsumptie...</p></div>					
 						<div class="block_button">
 							<hr/>
@@ -132,33 +138,12 @@
 						</div>		
 						<div class="break"></div>
 					</div>
-				</div>
-			</div>
-
-			<!-- Column 3 -->
-			<div class="column">
-				<!-- Block 3 - Inloopspreekuur (ISU) -->
-				<div class="block">
-					<div class="block_title">
-						<h1 class="title_red editable" id="untitled-region-9">Praktijkreglement</h1>
-						<span class="subtitle editable" id="untitled-region-10">"De huisregels en afspraken van MC<sup>2</sup>"</span>
-					</div>
-					<div class="block_contentwrapper">
-						<div class="block_text editable" id="praktijreglement"><p class="standard_text">In het praktijkreglement vind je een aantal huisregels en afspraken die wij als MC<sup>2</sup> met jou willen handhaven. Deze gaan onder andere over het maken van een afspraak, verhindering en verzekering.</p></div>
-						<div class="block_button">
-							<hr/>
-							<!-- button -->
-							<a class="button_red" href="Praktijkreglement.pdf" target="_blank">Open de PDF</a>
-						</div>	
-						<div class="break"></div>
-					</div>
-				</div>
+				</div>	
 			<div class="break"></div>
 		</div>
 		<div class="break"></div>
-		<!-- Footer -->
-		
 	</div>
+	<!-- Footer -->
 	<div class="footer">
 			<?php include 'inc_footer.php'; ?>
 		</div>

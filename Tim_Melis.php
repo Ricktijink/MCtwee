@@ -61,7 +61,7 @@
 		<img src="IMG/menu2.png" alt="over" width="73" height="68">
 	</div>
 	<!-- Left container - Yellow -->
-	<div id="person_container" class="">
+	<div id="person_container" class="tim bg_centertop">
 		<div id="mobile_menu_button">
 			<a href="index.php"><img src="IMG/mob_menu.png" alt="Mobile menu"></a>  
 		</div>

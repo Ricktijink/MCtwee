@@ -3,7 +3,7 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>MC2 - Temp</title>
+	<title>MC2 - MC2 in 2018 en 2019</title>
 	<meta name="author" content="Rick Tijink" />
 	<meta name="description" content="Misschien zit je nu ziek thuis? Bij MC2 zijn we gespecialiseerd in Arbeid en Gezondheid, zowel arbeidsgerelateerde- als arbeidrelevante klachten." />
 	<meta name="keywords"  content="Website, Logo, Code, Animation, Design, Animation" />
@@ -67,8 +67,8 @@
 		</div>
 		<!-- Intro page -->
 		<div id="intro_block">
-			<h1 class="main_title editable" id="untitled-region-1">Titel hier?</h1><br/>
-			<span class="main_subtitle editable" id="untitled-region-2">Subtitel hier?</span>
+			<h1 class="main_title editable" id="untitled-region-1">2018 / 2019</h1><br/>
+			<span class="main_subtitle editable" id="untitled-region-2">MC2 gaat contractvrij!</span>
 		</div>
 	</div>
 	<!-- Right container - Blue -->
@@ -80,14 +80,19 @@
 				<!-- Block 1 - MDP -->
 				<div class="block">
 					<div class="block_title">
-						<h1 class="title_red editable">Zorgverzekeraars</h1>
-						<!-- <span class="subtitle editable">Voor clienten die voor 1 januari 2019 gestart zijn</span> -->
+						<h1 class="title_red editable">2018</h1>
+						<span class="subtitle editable">Voor clienten die voor 1 januari 2019 gestart zijn</span>
 					</div>
 					<div class="block_contentwrapper">
 						<div class="block_text editable" id="re_mdp">
 							<p class="standard_text">
-							Onderstaande informatie geldt alleen voor cliënten/trajecten, die gestart zijn vóór 1 januari 2019</strong> <br><br> MC<sup>2</sup> heeft met nagenoeg alle zorgverzekeraars een contract voor GBGGZ (de generalistische Basis GGZ): a.s.r., Aevitae, Anderzorg, Avero Achmea, Bewuzt, Caresq, CZ, De Amersfoortse, De Friesland, DeltaLloyd, Ditzo, DSW, Eno (Salland, Hollandzorg, ZorgDirect), FBTO, IAK, Interpolis, inTwente, IZA, IZZ, Menzis, Menzis HEMA, MVJP, OHRA, ONVZ (PNO, VvAA), OWM (Zorg en Zekerheid), OZF, stad holland, SZVK, UMC, Univé, VGZ, VRZ, ZEKUR, Zilveren Kruis, Zorgzaam, Zorgzaam Verzekerd. Staat jouw zorgverzekeraar hier niet tussen, neem dan contact met ons op voor de mogelijkheden. <br><br> Overigens de ZorgVerzekeraars vergoeden de (evidence based) interventies die worden toegepast binnen onze praktijk, waarbij je wel moet letten op je eigen risico.
+								Klik hier wanneer je een traject bent gestart in 2018.
 							</p>
+						</div>
+						<!-- button -->
+						<div class="block_button">
+							<hr/>
+							<a class="button_red" href="MC2_2018.php">Lees Meer</a>
 						</div>
 						<div class="break"></div>
 					</div>
@@ -98,14 +103,19 @@
 				<!-- Block 4 -->
 				<div class="block">
 					<div class="block_title">
-						<h1 class="title_red editable">Kwaliteitskeurmerk KiBG</h1>
-						<!-- <span class="subtitle editable">Voor clienten die na 1 januari 2019 een traject opstarten</span> -->
+						<h1 class="title_red editable">2019</h1>
+						<span class="subtitle editable">Voor clienten die na 1 januari 2019 een traject opstarten</span>
 					</div>
 					<div class="block_contentwrapper">
 						<div class="block_text editable" id="re_werknemer">
 							<p class="standard_text">
-							De kwaliteit in de Generalistische Basis GGZ wordt nauwlettend nagestreefd. Ook MC<sup>2</sup> heeft daar een aandeel in: wij werken volgens het Kwaliteitskeurmerk van de Stichting Kwaliteit in Basis GGZ (KiBG). Dit houdt in dat we aan normen voldoen die staan voor cliëntgerichte behandeling, systematisch en evidence based handelen, herstelgerichte zorg voor cliënten met chronische klachten, continue verbeteren en innoveren. Enkele zaken waarover we de cliënten mogen informeren via de website vindt je <a href="KiBG-Informatie_voor_clienten.pdf" target="_blank">hier</a>.
+								Klik hier wanneer je een traject bent gestart in 2019.
 							</p>
+						</div>
+						<!-- button -->
+						<div class="block_button">
+							<hr/>
+							<a class="button_red" href="MC2_2019.php">Lees Meer</a>
 						</div>
 						<div class="break"></div>
 					</div>

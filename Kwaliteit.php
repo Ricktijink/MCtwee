@@ -86,33 +86,13 @@
 					<div class="block_contentwrapper">
 						<div class="block_text editable" id="re_mdp">
 							<p class="standard_text">
-									Omdat wij als MC<sup>2</sup> het belangrijk vinden cliëntgericht te werken, de cliënt wordt gezien als regisseur van een eigen traject (daarin de ondersteuning geniet van onze behandelaars). De cliënt beslist mee over het eigen te doorlopen behandeltraject (we noemen dit “shared decision making”: behandelaar en cliënt geven samen invulling aan het proces van de behandeling aan de start van het traject middels het bespreken van het behandelplan). Om dit zo optimaal te kunnen laten verlopen, vragen wij de cliënt om na de behandeling voor ons de CQi-vragenlijst in te vullen...
-							</p>
-						</div>
-							<!-- button -->
-						<div class="block_button">
-							<hr/>
-							<a class="button_red" href="Kwaliteit_Shared_Decision_Making.php">Lees Meer</a>
-						</div>
-						<div class="break"></div>
-					</div>
-				</div>
-				<!-- Block 2 -->
-				<div class="block margin-column-top">
-					<div class="block_title">
-						<h1 class="title_red editable">NEN-Certificatie</h1>
-						<!-- <span class="subtitle editable">Subtitel hier</span> -->
-					</div>
-					<div class="block_contentwrapper">
-						<div class="block_text editable" id="re_werknemer">
-							<p class="standard_text">
-								Bij MC2 staat kwaliteit boven kwantiteit. Om dit te waarborgen hebben wij vanaf 2014 tot mei 2017 een NEN-certificaat gehad, wat inhoudt dat wij een kwaliteitssysteem hanteren om onze kwaliteit van zorg te garanderen naar cliënten en opdrachtgevers. Dat wij doen wat we zeggen dat we doen, heel simpel gezegd. En dat is hoogwaardige zorg aanbieden! Naast dat wij middels het certificaat onze kwaliteit aantonen vinden wij het nóg belangrijker dat cliënten dit ook ondervinden...
+								Omdat wij als MC<sup>2</sup> het belangrijk vinden cliëntgericht te werken, de cliënt wordt gezien als regisseur van een eigen traject (daarin de ondersteuning geniet van onze behandelaars). De cliënt beslist mee over het eigen te doorlopen behandeltraject (we noemen dit “shared decision making”: behandelaar en cliënt geven samen invulling aan het proces van de behandeling aan de start van het traject middels het bespreken van het behandelplan). Om dit zo optimaal te kunnen laten verlopen, vragen wij de cliënt om na de behandeling voor ons de CQi-vragenlijst in te vullen...
 							</p>
 						</div>
 						<!-- button -->
 						<div class="block_button">
 							<hr/>
-							<a class="button_red" href="Kwaliteit_NEN_Certificatie.php">Lees Meer</a>
+							<a class="button_red" href="Kwaliteit_Shared_Decision_Making.php">Lees Meer</a>
 						</div>
 						<div class="break"></div>
 					</div>
@@ -158,7 +138,6 @@
 						<div class="break"></div>
 					</div>
 				</div>
-				<div class="break"></div>
 			</div>
 			<div class="break"></div>
 		</div>

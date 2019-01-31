@@ -83,19 +83,24 @@
 				<!-- Block 1 - MDP -->
 				<div class="block">
 					<div class="block_title">
-						<h1 class="title_red editable" id="untitled-region-3">MC<sup>2</sup> gaat CONTRACTVRIJ</h1>
+					<h1 class="title_red editable" id="untitled-region-3">Wachttijden MC<sup>2</sup></h1>
 						<span class="subtitle editable" id="untitled-region-4">4 januari 2019</span>
 					</div>
 					<div class="block_contentwrapper">
 						<div class="block_text editable" id="news1">
 							<p class="standard_text">
-								Tekst komt nog?
+								<strong>ISU (InloopSpreekUur):</strong>
+								<br>Momenteel geen wachttijd! Iedere week op dinsdag van 17.00u-18.00u Iedere week op 
+								vrijdag van 09.00u-10.00u <br><br><strong>MDP (MultiDisciplinair/Arbeid &amp; Gezondheid):
+								</strong> <br>Momenteel geen wachttijd! Intake AG: binnen 5 werkdagen na autorisatie/
+								aanvraag intake AG Rapportage: binnen 5 werkdagen na intake Start behandeling: binnen 5 
+								werkdagen na autorisatie MDP <br><br><strong>Eerstelijns: <br>Psychologie (contractvrij):
+								</strong> <br>Intake en/of behandeling: vanaf 1 februari 2019 <br><strong>Oefentherapie 
+								(contractvrij):</strong> Intake en/of start behandeling: vanaf 1 februari 2019 
+								<br><br><strong>Fysiotherapie (gecontracteerd):</strong> <br>Check de site van onze 
+								samenwerkingspartner: www.fysiobinnenstad.nl <br><strong>Psychologie (gecontracteerd):
+								</strong> <br>Tijdens ons ISU kunnen wij u meer vertellen over onze samenwerkingspartners
 							</p>
-						</div>
-						<!-- button -->
-						<div class="block_button">
-							<hr/>
-							<a class="button_red" href="Contractvrij.php">Lees Meer</a>
 						</div>
 						<div class="break"></div>
 					</div>
@@ -117,24 +122,21 @@
 				<!-- Block 3 - Werkgever -->
 				<div class="block">
 					<div class="block_title">
-					<h1 class="title_red editable" id="untitled-region-3">Wachttijden MC<sup>2</sup></h1>
+						<h1 class="title_red editable" id="untitled-region-3">MC<sup>2</sup> gaat CONTRACTVRIJ</h1>
 						<span class="subtitle editable" id="untitled-region-4">4 januari 2019</span>
 					</div>
 					<div class="block_contentwrapper">
 						<div class="block_text editable" id="news1">
 							<p class="standard_text">
-								<strong>ISU (InloopSpreekUur):</strong>
-								<br>Momenteel geen wachttijd! Iedere week op dinsdag van 17.00u-18.00u Iedere week op 
-								vrijdag van 09.00u-10.00u <br><br><strong>MDP (MultiDisciplinair/Arbeid &amp; Gezondheid):
-								</strong> <br>Momenteel geen wachttijd! Intake AG: binnen 5 werkdagen na autorisatie/
-								aanvraag intake AG Rapportage: binnen 5 werkdagen na intake Start behandeling: binnen 5 
-								werkdagen na autorisatie MDP <br><br><strong>Eerstelijns: <br>Psychologie (contractvrij):
-								</strong> <br>Intake en/of behandeling: vanaf 1 februari 2019 <br><strong>Oefentherapie 
-								(contractvrij):</strong> Intake en/of start behandeling: vanaf 1 februari 2019 
-								<br><br><strong>Fysiotherapie (gecontracteerd):</strong> <br>Check de site van onze 
-								samenwerkingspartner: www.fysiobinnenstad.nl <br><strong>Psychologie (gecontracteerd):
-								</strong> <br>Tijdens ons ISU kunnen wij u meer vertellen over onze samenwerkingspartners
+								MC2 gaat vanaf 1 januari 2019 ongecontracteerd verder. We zijn vanaf die datum contractvrij. Dat wil zeggen dat we vanaf die datum geen 
+								contracten meer aangaan met zorgverzekeraars.
+								Wat houdt dat in?
 							</p>
+						</div>
+						<!-- button -->
+						<div class="block_button">
+							<hr/>
+							<a class="button_red" href="2018en2019.php">Lees Meer</a>
 						</div>
 						<div class="break"></div>
 					</div>

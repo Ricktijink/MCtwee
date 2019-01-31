@@ -112,7 +112,7 @@
 				<div class="person bottom_yellow">
 					<div class="person_name editable" id="untitled-region-7">Tim Melis</div>
 					<div class="person_title editable" id="untitled-region-8">Oefentherapeut Mensendieck</div>
-					<div class="person_img editable" id="untitled-region-9"><a href="Tim_Melis.php"><img src="IMG/vacature2.jpg" alt="Tim Melis" width="180" height="180"></a></div>
+					<div class="person_img editable" id="untitled-region-9"><a href="Tim_Melis.php"><img src="IMG/tim.jpg" alt="Tim Melis" width="180" height="180"></a></div>
 				</div>
 				<div class="break"></div>
 			</div>

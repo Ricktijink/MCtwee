@@ -95,11 +95,11 @@
 								Mocht u alvast meer willen weten, bel dan onze office voor extra informatie. MC2 biedt fysio aan maar in een andere vorm dan u van ons gewend bent!
 							</p>
 						</div>
-						<!-- <div class="block_button">
-							<hr/> -->
+						<div class="block_button">
+							<hr/>
 							<!-- button -->
-							<!-- <a class="button_yellow" href="Fysiotherapie_Klachtbeeld.php">Lees Meer</a> -->
-						<!-- </div> -->
+							<a class="button_yellow" href="Fysiotherapie_Klachtbeeld.php">Lees Meer</a>
+						</div>
 						<div class="break"></div>
 						<!-- <div class="block_img editable" id="untitled-region-5"><p><img src="IMG/image3.jpg"></p></div> -->
 					</div>
@@ -107,11 +107,55 @@
 			</div>
 			<!-- Column 2 -->
 			<div class="column margin-column-right">
-				
+				<!-- Block 2 - Oefentherapie -->
+				<div class="block">
+					<div class="block_title">
+						<h1 class="title_yellow editable" id="untitled-region-6">Oefentherapie</h1>
+						<span class="subtitle editable" id="untitled-region-7">Als onderdeel van het MDP</span>
+					</div>
+					<div class="block_contentwrapper">
+						<div class="block_text editable" id="fysspecialismen">
+							<p class="standard_text">
+								Zo bewegen we de hele dag: we lopen, we bukken, we zitten. We doen dat veelal onbewust. Omdat ieder mens uniek is met eigen gedachten en gevoelens, 
+								heeft ook een ieder een eigen houding en beweegt op een eigen manier. Soms gezond en soms ongezond, waarbij bij een ongezonde houding en/of beweging, 
+								gewoontes ontstaan die kunnen leiden tot klachten aan het bewegingsapparaat. Er kunnen bijvoorbeeld klachten ontstaan aan rug of schouders, onbedoeld, 
+								onbewust. Maar ook door afwijkingen of ziekten kunnen mensen ongemak ervaren in lijf en leden. 
+							</p>
+						</div>
+						<div class="block_button">
+							<hr/>
+							<!-- button -->
+							<a class="button_yellow" href="Fysiotherapie_Oefentherapie.php">Lees Meer</a>
+						</div>
+						<div class="break"></div>
+					</div>
+				</div>
 			</div>
 			<!-- Column 3 -->
 			<div class="column">
-				
+				<!-- Block 3 - Inloopspreekuur (ISU) -->
+				<div class="block">
+					<div class="block_title">
+						<h1 class="title_yellow editable" id="untitled-region-10">Bewegingstherapie & -training</h1>
+						<span class="subtitle editable" id="untitled-region-11">In samenwerking met Fysio Binnenstad</span>
+					</div>
+					<div class="block_contentwrapper">
+						<div class="block_img editable" id="untitled-region-5"><p><a href="https://www.fysiobinnenstad.nl/" target="_blank"><img src="IMG/fysiobinnenstad.jpg" alt="fysiobinnenstad"></a></p></div>
+						<div class="block_text editable" id="fysinloop">
+							<p class="standard_text">
+								Vanaf 1 januari 2019 gaat MC2, in nauwe samenwerking met Fysio Binnenstad, fysiotherapie aanbieden op een andere  wijze dan voorheen. 
+								Mede gezien het feit dat MC2 in 2019 ongecontracteerd gaat (cq. geen contracten aan gaat voor fysiotherapie in 2019) en wij toch graag 
+								onze cliënten fysio willen blijven aanbieden, hebben wij hen bereid gevonden voor ons de fysio-tak op eerstelijnsgebied door te pakken.
+							</p>
+						</div>
+						<div class="block_button">
+							<hr/>
+							<!-- button -->
+							<a class="button_yellow" href="Fysiotherapie_Bewegingstherapie.php">Lees Meer</a>
+						</div>
+						<div class="break"></div>
+					</div>
+				</div>
 			</div>
 			<div class="break"></div>
 		</div>

@@ -1,6 +1,13 @@
 # MCtwee
 Repo for MCtwee
 
+## Update 21/01/2019
+Hoofdpagina:
+- Carrousel verplaatst, media naar 2018/2019 veranderd.
+
+Nieuwspagina:
+- Contractvrij / wachttijden omgewisseld, Contractvrij linkt naar 2018/2019 pagina
+
 ## Update 07/01/2019
 Tijdelijk aanpassing:
 - Startpagina: Kopje “nieuws” zorgverzekeraars’ veranderen in “2018 / 2019”.

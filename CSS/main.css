@@ -1310,6 +1310,10 @@ html, body{
 	transform-origin: 0 100%;
 }
 
+.bg_centertop{
+    background-position: center top!important;
+}
+
 .marco{
 	background-image: url("../IMG/marcovanhooff1.jpg");
 }
@@ -1334,8 +1338,8 @@ html, body{
 	background-image: url("../IMG/stefaninthoorn1.jpg");
 }
 
-.maarten{
-	background-image: url("../IMG/maartenvanroo1.jpg");
+.tim{
+	background-image: url("../IMG/timmelis1.jpg");
 }
 
 .kaz{

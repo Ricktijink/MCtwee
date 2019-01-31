@@ -49,7 +49,15 @@
 	<div id="block_menu">
 		<!-- Row 1 -->
 		<div class="item margin_r margin_b">
-	  		<a href="OverMC2.php"><img src="IMG/over.jpg" alt="Over Mc2" width="210" height="210"></a>
+			<div class="slider">
+				<a href="OverMC2.php"><img src="IMG/over.jpg" alt="Over Mc2" width="210" height="210"></a>
+				<a href="OverMC2.php"><img src="IMG/b.jpg" alt="De wachtruimte"></a>
+				<a href="OverMC2.php"><img src="IMG/c.jpg" alt="De trainingszaal - 1"></a>
+				<a href="OverMC2.php"><img src="IMG/d.jpg" alt="De trainingszaal - 2"></a>
+				<a href="OverMC2.php"><img src="IMG/e.jpg" alt="Psychologie spreekkamer - 1"></a>
+				<a href="OverMC2.php"><img src="IMG/g.jpg" alt="Groepsruimte - 1"></a>
+				<a href="OverMC2.php"><img src="IMG/h.jpg" alt="Groepsruimte - 2"></a>
+			</div>			  
 	  		<div class="title">Over MC2</div>
 	    	<div class="label editable" id="untitled-region-3"></div>
 		</div>
@@ -79,20 +87,12 @@
 		</div>
 		<!-- Row 3 -->
 		<div class="item_media margin_r">
-			<div class="slider">
-				<a href="Media.php"><img src="IMG/b.jpg" alt="De wachtruimte"></a>
-				<a href="Media.php"><img src="IMG/c.jpg" alt="De trainingszaal - 1"></a>
-				<a href="Media.php"><img src="IMG/d.jpg" alt="De trainingszaal - 2"></a>
-				<a href="Media.php"><img src="IMG/e.jpg" alt="Psychologie spreekkamer - 1"></a>
-				<a href="Media.php"><img src="IMG/f.jpg" alt="Psychologie spreekkamer - 2"></a>
-				<a href="Media.php"><img src="IMG/g.jpg" alt="Groepsruimte - 1"></a>
-				<a href="Media.php"><img src="IMG/h.jpg" alt="Groepsruimte - 2"></a>
-			</div>
-			<div class="title">Media</div>
+			<a href="2018en2019.php"><img src="IMG/20182019.jpg" alt="Over Mc2" width="210" height="210"></a>
+			<div class="title">2018/2019</div>
 	    	<div class="label editable" id="untitled-region-9"></div>
 		</div>
 		<div class="item margin_r">
-	  		<a href="Kwaliteit.php"><img src="IMG/kwaliteit1.jpg" alt="Kwaliteit" width="210" height="210"></a>
+	  		<a href="Kwaliteit.php"><img src="IMG/d.jpg" alt="Kwaliteit" width="210" height="210"></a>
 	  		<div class="title">Kwaliteit</div>
 	    	<div class="label editable" id="untitled-region-10"></div>
 		</div>
