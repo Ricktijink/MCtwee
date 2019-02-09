@@ -288,18 +288,6 @@ html, body{
 	display: none;
 }
 
-.quicklink{ 
-	display: inline-block;
-	background-color: #d8d8d8;
-	color: #ffffff;
-	padding: 10px 14px;
-	margin-bottom: 4px;
-	font-size: 12px;
-	border-radius: 10px;
-	-webkit-border-radius: 10px; 
-	  -moz-border-radius: 10px; 
-	  text-decoration: none;
-}
 
 /* Main logo*/
 
@@ -1322,13 +1310,13 @@ html, body{
 	height: 110%;
 	float: left;
 	background-size: cover;
-    background-position: center center;
+    background-position: center top;
    	transform: rotate(-4deg);
 	transform-origin: 0 100%;
 }
 
 .bg_centertop{
-    background-position: center center!important;
+    background-position: center top!important;
 }
 
 .marco{
