@@ -78,10 +78,19 @@
 	<div id="right_container">
 		<!-- Content container -->
 		<div id="content_container">
+			<div class="quicklinks-container">
+				Quicklinks:
+				<br>
+				<a href="#ql_klachtbeeld" class="quicklink">Klachtbeeld</a>
+				<a href="#ql_traject" class="quicklink">Traject</a>
+				<a href="#ql_specialismen" class="quicklink">Specialismen</a>
+				<a href="#ql_zorgkaart" class="quicklink">Zorgkaart</a>
+				<a href="#ql_spreekuur" class="quicklink">Spreekuur</a>
+			</div>
 			<!-- Column 1 -->
 			<div class="column margin-column-right">
 				<!-- Block 1 - Klachtenbeeld -->
-				<div class="block">
+				<div class="block" id="ql_klachtbeeld">
 					<div class="block_title">
 						<h1 class="title_blue editable" id="untitled-region-3">Klachtbeeld</h1>
 						<span class="subtitle editable" id="untitled-region-4">Voor elke klacht is een oplossing te vinden!</span>
@@ -102,7 +111,7 @@
 					</div>
 				</div>
 				<!-- Block 4 - Zorgkaart Nederland -->
-				<div class="block margin-column-top">
+				<div class="block margin-column-top" id="ql_traject">
 					<div class="block_title">
 						<h1 class="title_blue editable">Het behandeltraject</h1>
 						<span class="subtitle editable">“hoe ziet een behandeltraject eruit?”</span>
@@ -125,7 +134,7 @@
 			<!-- Column 2 -->
 			<div class="column margin-column-right">
 				<!-- Block 2 - Specialismen -->
-				<div class="block">
+				<div class="block" id="ql_specialismen">
 					<div class="block_title">
 						<h1 class="title_blue editable" id="untitled-region-6">Specialismen</h1>
 						<span class="subtitle editable" id="untitled-region-7">Wij zijn veelvoudig gespecialiseerd bij MC<sup>2</sup>.</span>
@@ -141,7 +150,7 @@
 					</div>
 				</div>
 				<!-- Block 4 - Zorgkaart Nederland -->
-				<div class="block margin-column-top">
+				<div class="block margin-column-top" id="ql_zorgkaart">
 					<div class="block_title">
 						<h1 class="title_blue editable">Zorgkaart Nederland</h1>
 						<span class="subtitle editable">Laat uw waardering achter!</span>
@@ -163,7 +172,7 @@
 			<!-- Column 3 -->
 			<div class="column">
 				<!-- Block 3 - Inloopspreekuur (ISU) -->
-				<div class="block">
+				<div class="block" id="ql_spreekuur">
 					<div class="block_title">
 						<h1 class="title_blue editable" id="untitled-region-10">Inloopspreekuur (ISU)</h1>
 						<span class="subtitle editable" id="untitled-region-11">Wij hebben een vrijblijvend spreekuur. Kom langs!</span>

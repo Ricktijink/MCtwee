@@ -75,10 +75,20 @@
 	<div id="right_container">
 		<!-- Content container -->
 		<div id="content_container">
+		<div class="quicklinks-container">
+				Quicklinks:
+				<br>
+				<a href="#ql_zorgverzekeraars" class="quicklink">Zorgverzekeraars</a>
+				<a href="#ql_ggzkwaliteit" class="quicklink">GGZ</a>
+				<a href="#ql_keurmerk" class="quicklink">Keurmerk</a>
+				<a href="#ql_sdm" class="quicklink">Shared Decision Making</a>
+				<a href="#ql_praktijkreglement" class="quicklink">Praktijkreglement</a>
+				<a href="#ql_nen" class="quicklink">Certificatie</a>
+			</div>
 			<!-- Column 1 -->
 			<div class="column margin-column-right">
 				<!-- Block 1 - MDP -->
-				<div class="block">
+				<div class="block" id="ql_zorgverzekeraars">
 					<div class="block_title">
 						<h1 class="title_red editable">Zorgverzekeraars</h1>
 						<!-- <span class="subtitle editable">Voor clienten die voor 1 januari 2019 gestart zijn</span> -->
@@ -93,7 +103,7 @@
 					</div>
 				</div>
 				<!-- Block 5 - Huisarts -->
-				<div class="block margin-column-top">
+				<div class="block margin-column-top" id="ql_ggzkwaliteit">
 					<div class="block_title">
 						<h1 class="title_red editable">GGZ Kwaliteitsstatuut</h1>
 						<!-- <span class="subtitle editable">Subtitle hier</span> -->
@@ -111,7 +121,7 @@
 			<!-- Column 2 -->
 			<div class="column margin-column-right">
 				<!-- Block 4 -->
-				<div class="block">
+				<div class="block" id="ql_keurmerk">
 					<div class="block_title">
 						<h1 class="title_red editable">Kwaliteitskeurmerk KiBG</h1>
 						<!-- <span class="subtitle editable">Voor clienten die na 1 januari 2019 een traject opstarten</span> -->
@@ -126,7 +136,7 @@
 					</div>
 				</div>
 				<!-- Block - Shared Decision Making -->
-				<div class="block margin-column-top">
+				<div class="block margin-column-top"  id="ql_sdm">
 					<div class="block_title">
 						<h1 class="title_red editable">Shared Decision Making</h1>
 						<span class="subtitle editable">Samen beslissen we hoe we de behandeling vorm gaan geven</span>
@@ -149,7 +159,7 @@
 			<!-- Column 3 -->
 			<div class="column">
 				<!-- Block 3 - Inloopspreekuur (ISU) -->
-				<div class="block">
+				<div class="block"  id="ql_praktijkreglement">
 					<div class="block_title">
 						<h1 class="title_red editable" id="untitled-region-9">Praktijkreglement</h1>
 						<span class="subtitle editable" id="untitled-region-10">"De huisregels en afspraken van MC<sup>2</sup>"</span>
@@ -165,7 +175,7 @@
 					</div>
 				</div>
 				<!-- Block 2 -->
-				<div class="block margin-column-top">
+				<div class="block margin-column-top" id="ql_nen">
 					<div class="block_title">
 						<h1 class="title_red editable">NEN-Certificatie</h1>
 						<!-- <span class="subtitle editable">Subtitel hier</span> -->

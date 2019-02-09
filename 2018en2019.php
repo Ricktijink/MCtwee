@@ -75,10 +75,16 @@
 	<div id="right_container">
 		<!-- Content container -->
 		<div id="content_container">
+		<div class="quicklinks-container">
+				Quicklinks:
+				<br>
+				<a href="#ql_2018" class="quicklink">2018</a>
+				<a href="#ql_2019" class="quicklink">2019</a>
+			</div>
 			<!-- Column 1 -->
 			<div class="column margin-column-right">
 				<!-- Block 1 - MDP -->
-				<div class="block">
+				<div class="block" id="ql_2018">
 					<div class="block_title">
 						<h1 class="title_red editable">2018</h1>
 						<span class="subtitle editable">Voor clienten die voor 1 januari 2019 gestart zijn</span>
@@ -101,7 +107,7 @@
 			<!-- Column 2 -->
 			<div class="column margin-column-right">
 				<!-- Block 4 -->
-				<div class="block">
+				<div class="block" id="ql_2019">
 					<div class="block_title">
 						<h1 class="title_red editable">2019</h1>
 						<span class="subtitle editable">Voor clienten die na 1 januari 2019 een traject opstarten</span>

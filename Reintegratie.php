@@ -83,10 +83,19 @@
 	<div id="right_container">
 		<!-- Content container -->
 		<div id="content_container">
+			<div class="quicklinks-container">
+				Quicklinks:
+				<br>
+				<a href="#ql_mdp" class="quicklink">MDP</a>
+				<a href="#ql_werknemer" class="quicklink">Werknemer</a>
+				<a href="#ql_werkgever" class="quicklink">Werkgever</a>
+				<a href="#ql_bedrijfsarts" class="quicklink">Bedrijfsarts</a>
+				<a href="#ql_huisarts" class="quicklink">Huisarts</a>
+			</div>
 			<!-- Column 1 -->
 			<div class="column margin-column-right">
 				<!-- Block 1 - MDP -->
-				<div class="block">
+				<div class="block" id="ql_mdp">
 					<div class="block_title">
 						<h1 class="title_red editable">MultiDisciplinair Programma (MDP)</h1>
 						<span class="subtitle editable">“Een duurzaam traject waarbij cliënt en reïntegratie samenkomen”</span>
@@ -109,7 +118,7 @@
 					</div>
 				</div>
 				<!-- Block 2 - Werknemer -->
-				<div class="block margin-column-top">
+				<div class="block margin-column-top" id="ql_werknemer">
 					<div class="block_title">
 						<h1 class="title_red editable">De Werknemer</h1>
 						<span class="subtitle editable">"Ik wil graag weer aan het werk, maar wel verantwoord."</span>
@@ -134,7 +143,7 @@
 			<!-- Column 2 -->
 			<div class="column margin-column-right">
 				<!-- Block 3 - Werkgever -->
-				<div class="block">
+				<div class="block" id="ql_werkgever">
 					<div class="block_title">
 						<h1 class="title_red editable">De Werkgever</h1>
 						<span class="subtitle editable">"Dus als werkgever mag ik wél geïnformeerd worden..?"</span>
@@ -156,7 +165,7 @@
 					</div>
 				</div>
 				<!-- Block 4 - Bedrijfarts -->
-				<div class="block margin-column-top">
+				<div class="block margin-column-top" id="ql_bedrijfsarts">
 					<div class="block_title">
 						<h1 class="title_red editable">De Bedrijfsarts</h1>
 						<span class="subtitle editable">“Een belangrijke schakel van de Multi Disciplinaire aanpak”</span>
@@ -182,7 +191,7 @@
 			<!-- Column 3 -->
 			<div class="column">
 				<!-- Block 5 - Huisarts -->
-				<div class="block">
+				<div class="block" id="ql_huisarts">
 					<div class="block_title">
 						<h1 class="title_red editable">De Huisarts</h1>
 						<span class="subtitle editable">“Als huisarts blijf je onderdeel van het gezondheidsproces van onze gezamenlijke cliënt”</span>

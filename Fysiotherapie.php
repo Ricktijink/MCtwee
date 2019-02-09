@@ -80,10 +80,17 @@
 	<div id="right_container">
 		<!-- Content container -->
 		<div id="content_container">
+		<div class="quicklinks-container">
+				Quicklinks:
+				<br>
+				<a href="#ql_belangrijk" class="quicklink">Belangrijk</a>
+				<a href="#ql_oefentherapie" class="quicklink">Oefentherapie</a>
+				<a href="#ql_bewegingstherapie" class="quicklink">Bewegingstherapie</a>
+			</div>
 			<!-- Column 1 -->
 			<div class="column margin-column-right">
 				<!-- Block 1 - Klachtenbeeld -->
-				<div class="block">
+				<div class="block" id="ql_belangrijk">
 					<div class="block_title">
 						<h1 class="title_yellow editable" id="untitled-region-3">Belangrijk:</h1>
 						<span class="subtitle editable" id="untitled-region-4">MC2 gaat contractvrij</span>
@@ -108,7 +115,7 @@
 			<!-- Column 2 -->
 			<div class="column margin-column-right">
 				<!-- Block 2 - Oefentherapie -->
-				<div class="block">
+				<div class="block" id="ql_oefentherapie">
 					<div class="block_title">
 						<h1 class="title_yellow editable" id="untitled-region-6">Oefentherapie</h1>
 						<span class="subtitle editable" id="untitled-region-7">Als onderdeel van het MDP</span>
@@ -134,7 +141,7 @@
 			<!-- Column 3 -->
 			<div class="column">
 				<!-- Block 3 - Inloopspreekuur (ISU) -->
-				<div class="block">
+				<div class="block" id="ql_bewegingstherapie">
 					<div class="block_title">
 						<h1 class="title_yellow editable" id="untitled-region-10">Bewegingstherapie & -training</h1>
 						<span class="subtitle editable" id="untitled-region-11">In samenwerking met Fysio Binnenstad</span>

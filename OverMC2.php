@@ -77,10 +77,17 @@
 	<div id="right_container">
 		<!-- Content container -->
 		<div id="content_container">
+			<div class="quicklinks-container">
+				Quicklinks:
+				<br>
+				<a href="#ql_hoehetbegon" class="quicklink">Hoe het begon</a>
+				<a href="#ql_missie" class="quicklink">Missie</a>
+				<a href="#ql_visie" class="quicklink">Visie</a>
+			</div>
 			<!-- Column 1 -->
 			<div class="column margin-column-right">
 				<!-- Block 1 - Klachtenbeeld -->
-				<div class="block">
+				<div class="block" id="ql_hoehetbegon">
 					<div class="block_title">
 						<h1 class="title_red editable" id="untitled-region-3">Hoe het begon</h1>
 						<span class="subtitle editable" id="untitled-region-4">De start van onze praktijk!</span>
@@ -102,7 +109,7 @@
 			<!-- Column 2 -->
 			<div class="column margin-column-right">
 				<!-- Block 2 - Specialismen -->
-				<div class="block">
+				<div class="block" id="ql_missie">
 					<div class="block_title">
 						<h1 class="title_red editable" id="untitled-region-5">Missie</h1>
 						<span class="subtitle editable" id="untitled-region-6">Ons doel van het bedrijf</span>
@@ -121,7 +128,7 @@
 			<!-- Column 3 -->
 			<div class="column">
 				<!-- Block 3 -->
-				<div class="block">
+				<div class="block" id="ql_visie">
 					<div class="block_title">
 						<h1 class="title_red editable" id="untitled-region-7">Visie</h1>
 						<span class="subtitle editable" id="untitled-region-8">Ons toekomstvisie van het bedrijf</span>

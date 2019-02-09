@@ -75,10 +75,17 @@
 	<div id="right_container">
 		<!-- Content container -->
 		<div id="content_container">
+			<div class="quicklinks-container">
+				Quicklinks:
+				<br>
+				<a href="#ql_sdm" class="quicklink">Shared Decision Making</a>
+				<a href="#ql_samenwerking" class="quicklink">Samenwerking</a>
+				<a href="#ql_kwaliteit" class="quicklink">KwaliteitsstatuutGGZ</a>
+			</div>
 			<!-- Column 1 -->
 			<div class="column margin-column-right">
 				<!-- Block 1 - MDP -->
-				<div class="block">
+				<div class="block" id="ql_sdm">
 					<div class="block_title">
 						<h1 class="title_red editable">Shared Decision Making</h1>
 						<span class="subtitle editable">Samen beslissen we hoe we de behandeling vorm gaan geven</span>
@@ -101,7 +108,7 @@
 			<!-- Column 2 -->
 			<div class="column margin-column-right">
 				<!-- Block 4 -->
-				<div class="block">
+				<div class="block" id="ql_samenwerking">
 					<div class="block_title">
 						<h1 class="title_red editable">Samenwerking</h1>
 						<!-- <span class="subtitle editable">Subtitel hier</span> -->
@@ -124,7 +131,7 @@
 			<!-- Column 3 -->
 			<div class="column">
 				<!-- Block 5 - Huisarts -->
-				<div class="block">
+				<div class="block" id="ql_kwaliteit">
 					<div class="block_title">
 						<h1 class="title_red editable">GGZ Kwaliteitsstatuut</h1>
 						<!-- <span class="subtitle editable">Subtitle hier</span> -->

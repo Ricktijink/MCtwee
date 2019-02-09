@@ -284,6 +284,11 @@ html, body{
 3.0 Repetitive elements
 --------------------------------------------------------------*/
 
+.quicklink, .quicklinks-container{
+	display: none;
+}
+
+
 /* Main logo*/
 
 #logo{
@@ -1305,13 +1310,13 @@ html, body{
 	height: 110%;
 	float: left;
 	background-size: cover;
-    background-position: center bottom;
+    background-position: center center;
    	transform: rotate(-4deg);
 	transform-origin: 0 100%;
 }
 
 .bg_centertop{
-    background-position: center top!important;
+    background-position: center center!important;
 }
 
 .marco{
@@ -4427,6 +4432,11 @@ html, body{
 
 @media screen and (max-width: 360px) {
 
+
+	.bg_centertop{
+		background-position: center top!important;
+	}
+
 	/* Menu */
 
 	.menu_overlay_left {
@@ -4837,7 +4847,7 @@ html, body{
 
 	#person_container{
 		width: 100%;
-		height: 240px;
+		height: 100vh;
 		float: none;
 		transform: rotate(0deg);
 		transform-origin: 0 100%;
@@ -5204,6 +5214,27 @@ html, body{
 
 @media screen and (max-width: 375px) {
 
+	.quicklinks-container{
+		display: block;
+	}
+
+	.quicklink{ 
+		display: inline-block;
+		background-color: #d8d8d8;
+		color: #ffffff;
+		padding: 10px 14px;
+		margin-bottom: 4px;
+		font-size: 12px;
+		border-radius: 10px;
+		-webkit-border-radius: 10px; 
+		  -moz-border-radius: 10px; 
+		  text-decoration: none;
+	}
+
+	.bg_centertop{
+		background-position: center top!important;
+	}
+	
 	/* Menu */
 
 	.menu_overlay_left {
@@ -5614,7 +5645,7 @@ html, body{
 
 	#person_container{
 		width: 100%;
-		height: 240px;
+		height: 100vh;
 		float: none;
 		transform: rotate(0deg);
 		transform-origin: 0 100%;
@@ -5981,6 +6012,9 @@ html, body{
 
 @media screen and (max-width: 320px) {
 
+	.bg_centertop{
+		background-position: center top!important;
+	}
 
 	#block_menu{
 		width: 280px;

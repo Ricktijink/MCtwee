@@ -77,26 +77,36 @@
 	<div id="right_container">
 		<!-- Content container -->
 		<div id="content_container">
+		<div class="quicklinks-container">
+				Quicklinks:
+				<br>
+				<a href="#ql_contactgegevens" class="quicklink">Contactgegevens</a>
+				<a href="#ql_spreekuren" class="quicklink">Spreekuren</a>
+				<a href="#ql_geengehoor" class="quicklink">Geen gehoor?</a>
+				<a href="#ql_spoed" class="quicklink">Spoed</a>
+				<a href="#ql_overig" class="quicklink">Overig</a>
+				<a href="#ql_locatie" class="quicklink">Locatie</a>
+			</div>
 			<!-- Column 1 -->
 			<div class="column margin-column-right">
 				<!-- Block 1 - MDP -->
-				<div class="block">
+				<div class="block" id="ql_contactgegevens">
 					<div class="block_title">
 						<h1 class="title_red editable" id="untitled-region-3">Contactgegevens</h1>
 						<span class="subtitle editable" id="untitled-region-4">Hoe kunt u contact opnemen met ons?</span>
 					</div>
 					<div class="block_contentwrapper">
 						<div class="block_text editable" id="contactdata"><p class="standard_text">Ons secretariaat is maandag, dinsdag, donderdag en vrijdag te bereiken van 8:30 tot 17:00. U heeft daarnaast de mogelijkheid van mail en van het inspreken van een boodschap op ons antwoordapparaat.</p>
-<p class="standard_text hide_mob"><br>T: 013 - 544 02 42<br> E: <a id="contactmaillink" href="mailto:Info@mctwee.nl">Info@mctwee.nl</a></p>
-<div id="call_button">Bel ons!</div>
+						<p class="standard_text hide_mob"><br>T: 013 - 544 02 42<br> E: <a id="contactmaillink" href="mailto:Info@mctwee.nl">Info@mctwee.nl</a></p>
+						<div id="call_button">Bel ons!</div>
 
-<div id="mail_button">Mail ons!</div>
-</div>
+						<div id="mail_button">Mail ons!</div>
+						</div>
 					</div>
 					<div class="block_img editable" id="untitled-region-5"><p><img src="IMG/office1.jpg" alt="contact"></p></div>
 				</div>
 				<!-- Block 4 - Bedrijfarts -->
-				<div class="block margin-column-top">
+				<div class="block margin-column-top" id="ql_spreekuren">
 					<div class="block_title">
 						<h1 class="title_red editable" id="untitled-region-6">Spreekuren</h1>
 						<span class="subtitle editable" id="untitled-region-7">Wanneer kunt u langskomen?</span>
@@ -109,7 +119,7 @@
 			<!-- Column 2 -->
 			<div class="column margin-column-right">
 				<!-- Block 3 - Werkgever -->
-				<div class="block">
+				<div class="block" id="ql_geengehoor">
 					<div class="block_title">
 						<h1 class="title_red editable" id="untitled-region-8">Geen Gehoor?</h1>
 						<span class="subtitle editable" id="untitled-region-9">Kunt u ons niet bereiken? Geen zorgen!</span>
@@ -119,7 +129,7 @@
 					</div>
 				</div>
 				<!-- Block - Geen gehoor -->
-				<div class="block margin-column-top">
+				<div class="block margin-column-top" id="ql_spoed">
 					<div class="block_title">
 						<h1 class="title_red editable" id="untitled-region-8">In geval van spoed</h1>
 						<span class="subtitle editable" id="untitled-region-9">Zowel tijdens als buiten kantooruren</span>
@@ -139,7 +149,7 @@
 					</div>
 				</div>
 				<!-- Block - Geen gehoor -->
-				<div class="block margin-column-top">
+				<div class="block margin-column-top" id="ql_overig">
 					<div class="block_title">
 						<h1 class="title_red editable" id="untitled-region-8">Overige info</h1>
 						<!-- <span class="subtitle editable" id="untitled-region-9">Zowel tijdens als buiten kantooruren</span> -->
@@ -157,7 +167,7 @@
 			<!-- Column 3 -->
 			<div class="column">
 				<!-- Block 5 - Huisarts -->
-				<div class="block">
+				<div class="block" id="ql_locatie">
 					<div class="block_title">
 						<h1 class="title_red editable" id="untitled-region-10">Locatie</h1>
 						<span class="subtitle editable" id="untitled-region-11">Waar zijn wij te vinden?</span>
