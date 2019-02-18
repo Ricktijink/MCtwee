@@ -67,8 +67,8 @@
 		</div>
 		<!-- Intro page -->
 		<div id="intro_block">
-			<h1 class="main_title editable" id="untitled-region-1">Contact</h1><br/>
-			<span class="main_subtitle editable" id="untitled-region-2">Wij staan voor u klaar!</span>
+			<h1 class="main_title editable" id="untitled-region-10982">Contact</h1><br/>
+			<span class="main_subtitle editable" id="untitled-region-22235">Wij staan voor u klaar!</span>
 			<div class="line"></div>
 			<p class="main_text editable" id="contactintro">Als je dit leest, zit je misschien 'ziek thuis'. Je hebt klachten waardoor je niet kunt werken. Hoofdpijn, slapeloosheid, moeite met concentreren en angst zijn voorbeelden van dergelijke klachten. Zou het niet fijn zijn om ‘gewoon’ je leven weer op te kunnen pakken? Gewoon energie hebben voor leuke dingen. Gewoon werken en daar plezier in hebben. <br><br> Bij MC<sup>2</sup> zijn we gespecialiseerd in Arbeid en Gezondheid! Dat houdt in dat we cliënten begeleiden met Arbeidgerelateerde klachten en Arbeidrelevante klachten. Dit doen wij middels een door ons ontwikkeld programma: MDP (Multi Disciplinair Programma). Een programma op maat gemaakt voor elk individu.</p>
 		</div>
@@ -92,8 +92,8 @@
 				<!-- Block 1 - MDP -->
 				<div class="block" id="ql_contactgegevens">
 					<div class="block_title">
-						<h1 class="title_red editable" id="untitled-region-3">Contactgegevens</h1>
-						<span class="subtitle editable" id="untitled-region-4">Hoe kunt u contact opnemen met ons?</span>
+						<h1 class="title_red editable" id="untitled-region-306826">Contactgegevens</h1>
+						<span class="subtitle editable" id="untitled-region-4480">Hoe kunt u contact opnemen met ons?</span>
 					</div>
 					<div class="block_contentwrapper">
 						<div class="block_text editable" id="contactdata"><p class="standard_text">Ons secretariaat is maandag, dinsdag, donderdag en vrijdag te bereiken van 8:30 tot 17:00. U heeft daarnaast de mogelijkheid van mail en van het inspreken van een boodschap op ons antwoordapparaat.</p>
@@ -103,13 +103,13 @@
 						<div id="mail_button">Mail ons!</div>
 						</div>
 					</div>
-					<div class="block_img editable" id="untitled-region-5"><p><img src="IMG/office1.jpg" alt="contact"></p></div>
+					<div class="block_img editable" id="untitled-region-5890"><p><img src="IMG/office1.jpg" alt="contact"></p></div>
 				</div>
 				<!-- Block 4 - Bedrijfarts -->
 				<div class="block margin-column-top" id="ql_spreekuren">
 					<div class="block_title">
-						<h1 class="title_red editable" id="untitled-region-6">Spreekuren</h1>
-						<span class="subtitle editable" id="untitled-region-7">Wanneer kunt u langskomen?</span>
+						<h1 class="title_red editable" id="untitled-region-6459">Spreekuren</h1>
+						<span class="subtitle editable" id="untitled-region-7371">Wanneer kunt u langskomen?</span>
 					</div>
 					<div class="block_contentwrapper">
 						<div class="block_text editable" id="spreekuren"><p class="standard_text">Voor actieve cliënten en opdrachtgevers is er iedere werkdag, met uitzondering van woensdag, van 08.30 tot 09.00 een telefonisch spreekuur. <br><br> Elke woensdag hebben wij een inloopspreekuur van 17.00 tot 18.00 en vrijdag van 9.00 tot 10.00, waar je zonder afspraak terecht kunt voor een kennismaking en een vrijblijvend advies.</p></div>
@@ -121,8 +121,8 @@
 				<!-- Block 3 - Werkgever -->
 				<div class="block" id="ql_geengehoor">
 					<div class="block_title">
-						<h1 class="title_red editable" id="untitled-region-8">Geen Gehoor?</h1>
-						<span class="subtitle editable" id="untitled-region-9">Kunt u ons niet bereiken? Geen zorgen!</span>
+						<h1 class="title_red editable" id="untitled-region-88753">Geen Gehoor?</h1>
+						<span class="subtitle editable" id="untitled-region-9906">Kunt u ons niet bereiken? Geen zorgen!</span>
 					</div>
 					<div class="block_contentwrapper">
 						<div class="block_text editable" id="geengehoor"><p class="standard_text">"De telefoon wordt niet opgenomen, wat nu!?" De voicemail inspreken of een mail sturen zijn de beste en snelste opties! <br><br> Het kan gebeuren dat de telefoon bij MC<sup>2</sup> een keer niet wordt opgenomen. Mocht dit gebeuren dan kun je onze voicemail inspreken. Deze wordt direct afgeluisterd, zodra iemand beschikbaar is. Daarnaast kun je ook altijd een mail sturen. Deze wordt vaak dezelfde dag nog beantwoord.</p></div>
@@ -131,8 +131,8 @@
 				<!-- Block - Geen gehoor -->
 				<div class="block margin-column-top" id="ql_spoed">
 					<div class="block_title">
-						<h1 class="title_red editable" id="untitled-region-8">In geval van spoed</h1>
-						<span class="subtitle editable" id="untitled-region-9">Zowel tijdens als buiten kantooruren</span>
+						<h1 class="title_red editable" id="untitled-region-8126">In geval van spoed</h1>
+						<span class="subtitle editable" id="untitled-region-96839">Zowel tijdens als buiten kantooruren</span>
 					</div>
 					<div class="block_contentwrapper">
 						<div class="block_text editable" id="geengehoor">
@@ -151,7 +151,7 @@
 				<!-- Block - Geen gehoor -->
 				<div class="block margin-column-top" id="ql_overig">
 					<div class="block_title">
-						<h1 class="title_red editable" id="untitled-region-8">Overige info</h1>
+						<h1 class="title_red editable" id="untitled-region-88848">Overige info</h1>
 						<!-- <span class="subtitle editable" id="untitled-region-9">Zowel tijdens als buiten kantooruren</span> -->
 					</div>
 					<div class="block_contentwrapper">
@@ -169,8 +169,8 @@
 				<!-- Block 5 - Huisarts -->
 				<div class="block" id="ql_locatie">
 					<div class="block_title">
-						<h1 class="title_red editable" id="untitled-region-10">Locatie</h1>
-						<span class="subtitle editable" id="untitled-region-11">Waar zijn wij te vinden?</span>
+						<h1 class="title_red editable" id="untitled-region-101010">Locatie</h1>
+						<span class="subtitle editable" id="untitled-region-111123">Waar zijn wij te vinden?</span>
 					</div>
 					<div class="block_contentwrapper">
 						<div class="block_text editable" id="locatiemap"><p class="standard_text">MC<sup>2</sup> Reintegratie - Psychologie - Fysiotherapie<br> Kruisstraat 50<br> 5014 HV Tilburg</p></div>

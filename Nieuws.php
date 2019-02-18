@@ -68,8 +68,8 @@
 		</div>
 		<!-- Intro page -->
 		<div id="intro_block">
-			<h1 class="main_title editable" id="untitled-region-1">Nieuws</h1><br/>
-			<span class="main_subtitle editable" id="untitled-region-2">De laatste updates vindt u hier</span>
+			<h1 class="main_title editable" id="untitled-region-13424">Nieuws</h1><br/>
+			<span class="main_subtitle editable" id="untitled-region-2234324325">De laatste updates vindt u hier</span>
 			<div class="line"></div>
 			<p class="main_text editable" id="newsintro">Welkom bij het laatste nieuws van MC<sup>2</sup>. Hier vind je nieuws over alles wat met MC<sup>2</sup> te maken kan hebben zoals vakanties, medewerkers, werkzaamheden etc. Blijf op de hoogte door af en toe hier te kijken maar ga ook eens naar onze facebook-pagina. Zo blijf je altijd op de hoogte van de laatste ins en outs van MC<sup>2</sup> <br><br>MC<sup>2</sup> gaat per 1 januari 2019 contractvrij <br>maar daarover informeren wij u zo spoedig mogelijk via onze site. <br>Mocht u al info wensen, neemt u dan contact op met onze office.</p>
 		</div>
@@ -83,8 +83,8 @@
 				<!-- Block 1 - MDP -->
 				<div class="block">
 					<div class="block_title">
-					<h1 class="title_red editable" id="untitled-region-3">Wachttijden MC<sup>2</sup></h1>
-						<span class="subtitle editable" id="untitled-region-4">4 januari 2019</span>
+					<h1 class="title_red editable" id="untitled-region-33424">Wachttijden MC<sup>2</sup></h1>
+						<span class="subtitle editable" id="untitled-region-46757">4 januari 2019</span>
 					</div>
 					<div class="block_contentwrapper">
 						<div class="block_text editable" id="news1">
@@ -122,8 +122,8 @@
 				<!-- Block 3 - Werkgever -->
 				<div class="block">
 					<div class="block_title">
-						<h1 class="title_red editable" id="untitled-region-3">MC<sup>2</sup> gaat CONTRACTVRIJ</h1>
-						<span class="subtitle editable" id="untitled-region-4">4 januari 2019</span>
+						<h1 class="title_red editable" id="untitled-region-30937">MC<sup>2</sup> gaat CONTRACTVRIJ</h1>
+						<span class="subtitle editable" id="untitled-region-409630">4 januari 2019</span>
 					</div>
 					<div class="block_contentwrapper">
 						<div class="block_text editable" id="news1">

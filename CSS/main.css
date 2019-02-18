@@ -1310,13 +1310,13 @@ html, body{
 	height: 110%;
 	float: left;
 	background-size: cover;
-    background-position: center top;
+    background-position: center center;
    	transform: rotate(-4deg);
 	transform-origin: 0 100%;
 }
 
 .bg_centertop{
-    background-position: center top!important;
+    background-position: center center!important;
 }
 
 .marco{
