@@ -104,15 +104,15 @@
 			<div class="column1 mob_row3">
 				<!-- Block 2 - Kaz -->
 				<div class="person bottom_blue">
-					<div class="person_name editable" id="untitled-region-7">Kaz Steijvers</div>
-					<div class="person_title editable" id="untitled-region-8">Toegepast Psycholoog</div>
-					<div class="person_img editable" id="untitled-region-9"><a href="Kaz_Steijvers.php"><img src="IMG/kaz.jpg" alt="Kaz Steijvers" width="180" height="180"></a></div>
+					<div class="person_name editable" id="untitled-region-827">Kaz Steijvers</div>
+					<div class="person_title editable" id="untitled-region-282">Toegepast Psycholoog</div>
+					<div class="person_img editable" id="untitled-region-1729"><a href="Kaz_Steijvers.php"><img src="IMG/kaz.jpg" alt="Kaz Steijvers" width="180" height="180"></a></div>
 				</div>
 				<!-- Block 2 - Tim Melis -->
 				<div class="person bottom_yellow">
-					<div class="person_name editable" id="untitled-region-7">Tim Melis</div>
-					<div class="person_title editable" id="untitled-region-8">Oefentherapeut Mensendieck</div>
-					<div class="person_img editable" id="untitled-region-9"><a href="Tim_Melis.php"><img src="IMG/tim.jpg" alt="Tim Melis" width="180" height="180"></a></div>
+					<div class="person_name editable" id="untitled-region-357">Tim Melis</div>
+					<div class="person_title editable" id="untitled-region-348">Oefentherapeut Mensendieck</div>
+					<div class="person_img editable" id="untitled-region-349"><a href="Tim_Melis.php"><img src="IMG/tim.jpg" alt="Tim Melis" width="180" height="180"></a></div>
 				</div>
 				<div class="break"></div>
 			</div>

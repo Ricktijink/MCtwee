@@ -2120,6 +2120,16 @@ html, body{
 		max-height: 340px;
 		height: auto;
 	}
+	
+	#geengehoor1{
+		max-height: 340px;
+		height: auto;
+	}
+	
+	#geengehoor2{
+		max-height: 340px;
+		height: auto;
+	}
 
 	#locatiemap{
 		max-height: 350px;
@@ -2664,6 +2674,16 @@ html, body{
 	}
 
 	#geengehoor{
+		max-height: 300px;
+		height: auto;
+	}
+	
+	#geengehoor1{
+		max-height: 300px;
+		height: auto;
+	}
+	
+	#geengehoor2{
 		max-height: 300px;
 		height: auto;
 	}
@@ -3234,6 +3254,16 @@ html, body{
 		max-height: 250px;
 		height: auto;
 	}
+	
+	#geengehoor1{
+		max-height: 250px;
+		height: auto;
+	}
+	
+	#geengehoor2{
+		max-height: 250px;
+		height: auto;
+	}
 
 	#locatiemap{
 		max-height: 270px;
@@ -3799,6 +3829,16 @@ html, body{
 		max-height: 190px;
 		height: auto;
 	}
+	
+	#geengehoor1{
+		max-height: 190px;
+		height: auto;
+	}
+	
+	#geengehoor2{
+		max-height: 190px;
+		height: auto;
+	}
 
 	#locatiemap{
 		max-height: 140px;
@@ -4356,6 +4396,16 @@ html, body{
 		max-height: 210px;
 		height: auto;
 	}
+	
+	#geengehoor1{
+		max-height: 210px;
+		height: auto;
+	}
+	
+	#geengehoor2{
+		max-height: 210px;
+		height: auto;
+	}
 
 	#locatiemap{
 		height: 140px;
@@ -4816,6 +4866,16 @@ html, body{
 	}
 
 	#geengehoor{
+		max-height: none;
+		height: auto;
+	}
+	
+	#geengehoor1{
+		max-height: none;
+		height: auto;
+	}
+	
+	#geengehoor2{
 		max-height: none;
 		height: auto;
 	}
@@ -5614,6 +5674,16 @@ html, body{
 	}
 
 	#geengehoor{
+		max-height: none;
+		height: auto;
+	}
+	
+	#geengehoor1{
+		max-height: none;
+		height: auto;
+	}
+	
+	#geengehoor2{
 		max-height: none;
 		height: auto;
 	}
@@ -6430,6 +6500,16 @@ html, body{
 	}
 
 	#geengehoor{
+		max-height: none;
+		height: auto;
+	}
+	
+	#geengehoor1{
+		max-height: none;
+		height: auto;
+	}
+	
+	#geengehoor2{
 		max-height: none;
 		height: auto;
 	}

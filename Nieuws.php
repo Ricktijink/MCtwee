@@ -126,7 +126,7 @@
 						<span class="subtitle editable" id="untitled-region-409630">4 januari 2019</span>
 					</div>
 					<div class="block_contentwrapper">
-						<div class="block_text editable" id="news1">
+						<div class="block_text editable" id="news2">
 							<p class="standard_text">
 								MC2 gaat vanaf 1 januari 2019 ongecontracteerd verder. We zijn vanaf die datum contractvrij. Dat wil zeggen dat we vanaf die datum geen 
 								contracten meer aangaan met zorgverzekeraars.

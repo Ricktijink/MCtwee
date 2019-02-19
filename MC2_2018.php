@@ -142,7 +142,7 @@
 						<span class="subtitle editable">Samen beslissen we hoe we de behandeling vorm gaan geven</span>
 					</div>
 					<div class="block_contentwrapper">
-						<div class="block_text editable" id="re_mdp">
+						<div class="block_text editable" id="re_mdp1">
 							<p class="standard_text">
 								Omdat wij als MC<sup>2</sup> het belangrijk vinden cliëntgericht te werken, de cliënt wordt gezien als regisseur van een eigen traject (daarin de ondersteuning geniet van onze behandelaars). De cliënt beslist mee over het eigen te doorlopen behandeltraject (we noemen dit “shared decision making”: behandelaar en cliënt geven samen invulling aan het proces van de behandeling aan de start van het traject middels het bespreken van het behandelplan). Om dit zo optimaal te kunnen laten verlopen, vragen wij de cliënt om na de behandeling voor ons de CQi-vragenlijst in te vullen...
 							</p>
@@ -181,7 +181,7 @@
 						<!-- <span class="subtitle editable">Subtitel hier</span> -->
 					</div>
 					<div class="block_contentwrapper">
-						<div class="block_text editable" id="re_werknemer">
+						<div class="block_text editable" id="re_werknemer1">
 							<p class="standard_text">
 								Bij MC2 staat kwaliteit boven kwantiteit. Om dit te waarborgen hebben wij vanaf 2014 tot mei 2017 een NEN-certificaat gehad, wat inhoudt dat wij een kwaliteitssysteem hanteren om onze kwaliteit van zorg te garanderen naar cliënten en opdrachtgevers. Dat wij doen wat we zeggen dat we doen, heel simpel gezegd. En dat is hoogwaardige zorg aanbieden! Naast dat wij middels het certificaat onze kwaliteit aantonen vinden wij het nóg belangrijker dat cliënten dit ook ondervinden...
 							</p>

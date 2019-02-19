@@ -121,7 +121,7 @@
 				<!-- Block 3 - Werkgever -->
 				<div class="block" id="ql_geengehoor">
 					<div class="block_title">
-						<h1 class="title_red editable" id="untitled-region-88753">Geen Gehoor?</h1>
+						<h1 class="title_red editable" id="untitled-region-8879753">Geen Gehoor?</h1>
 						<span class="subtitle editable" id="untitled-region-9906">Kunt u ons niet bereiken? Geen zorgen!</span>
 					</div>
 					<div class="block_contentwrapper">
@@ -135,7 +135,7 @@
 						<span class="subtitle editable" id="untitled-region-96839">Zowel tijdens als buiten kantooruren</span>
 					</div>
 					<div class="block_contentwrapper">
-						<div class="block_text editable" id="geengehoor">
+						<div class="block_text editable" id="geengehoor1">
 							<p class="standard_text">
 								Mocht u tijdens of buiten kantooruren een spoedgeval hebben dan kunt u hier lezen wat u kunt doen.
 							</p>
@@ -155,7 +155,7 @@
 						<!-- <span class="subtitle editable" id="untitled-region-9">Zowel tijdens als buiten kantooruren</span> -->
 					</div>
 					<div class="block_contentwrapper">
-						<div class="block_text editable" id="geengehoor">
+						<div class="block_text editable" id="geengehoor2">
 							<p class="standard_text">
 								Mocht je informatie op deze site missen dan verwijzen we u graag voor aanvullende informatie naar het GGZ kwaliteitstatuut <a href="Kwaliteit.php">hier</a> of ons praktijkregelement <a href="Praktijkreglement.pdf" target="_blank">hier</a> en anders helpt ons secretariaat u graag op weg.
 							</p>
